@@ -9,6 +9,7 @@
     1. Add a filter of posts.
     2. Add a new filter of posts by last 24 hr.
     3. List down all the emails, role and company names in the google sheet.
+    4. Repeat this process every night so that by morning at 10:30am, 40-50 emails are sent to the hiring managers automatically. It can save upto 40 minutes daily which can be utilised in other productive work.
 3. Open google sheet and click on Extensions > AppScripts.
 4. Upload your resume in google drive and copy id after uploading.
 5. Create a new file named as resume-sender.gs and paste the code.
