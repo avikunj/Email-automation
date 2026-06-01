@@ -7,7 +7,7 @@
 1. Create a google sheet at https://docs.google.com/spreadsheets/u/0/ with columns as Name, Email, Position, Company, Status.
 2. Search "Hiring for React Developers" on linkedin
     1. Add a filter of posts.
-    2. Add a new filter of posts by last 24 hr.
+    2. Add a new filter of posts by last 24 hr/last week/last month.
     3. List down all the emails, role and company names in the google sheet.
     4. Repeat this process every night so that by morning at 10:30am, 40-50 emails are sent to the hiring managers automatically. It can save upto 40 minutes daily which can be utilised in other productive work.
 3. Open google sheet and click on Extensions > AppScripts.
